@@ -21,5 +21,5 @@ docker version
 ลอกเขามาอีกที [เอาจากที่นี่](https://medium.com/@somprasongd/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-docker-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2-305fb178d22b) 
 
 ## ก้าวที่ 2 เรียนรู้ด้วยการลงมือทำ
- - *Docker #1* **Webserver ด้วย php7, mysql, nginx and phpmyadmin** [วิธีทำ](/Docker#1/docker1.md)
+ - *Docker #1* **Webserver ด้วย php7, mysql, nginx and phpmyadmin** [วิธีทำ](/docker1/docker1.md)
 
