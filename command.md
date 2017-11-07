@@ -1,7 +1,16 @@
 # คำสั่งที่ใช้บ่อยๆ ของ Docker
 
-- docker ps
-- docker compose up
-- docker compose down
+ดูสถานะ
+``````
+docker ps
+``````
+สร้าง
+``````
+docker-compose up -d
+``````
+ลบ
+``````
+docker-compose down
+``````
 
 
