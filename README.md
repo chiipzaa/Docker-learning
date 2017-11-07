@@ -18,7 +18,7 @@ docker version
 + Docker มีระบบ Registry ทำให้สามารถเคลื่อนย้าย หรือติดตั้ง Container ได้สะดวก และรวดเร็วกว่ามาก
 + Containers มันรันอยู่บน Docker Engine ทำให้ไม่ต้องสนใจว่า Infrastructure หรือ Host OS ว่าจะเป็นอะไรยังไง ทำให้หมดปัญหาว่าเครื่อง Dev รันได้ แต่เครื่อง Production มันรันไม่ได้บ้าง หรือเครื่อง Dev แต่ละคนติดตั้งเครื่องมือคนละเวอร์ชันกัน เราก็ build container เป็น image แล้วส่งไปใช้กัน
 
-### คำสั่งที่ใช้บ่อย [อ่านดู](/command.md)
+### คำสั่งที่ใช้บ่อย [อ่านดู](/CMD.md)
 
 ## ก้าวที่ 2 เรียนรู้ด้วยการลงมือทำ
  - *Docker #1* **Webserver ด้วย php7, mysql, nginx and phpmyadmin** [วิธีทำ](/docker1/docker1.md)
