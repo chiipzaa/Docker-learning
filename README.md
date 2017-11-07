@@ -21,5 +21,6 @@ docker version
 ### คำสั่งที่ใช้บ่อย [อ่านดู](/CMD.md)
 
 ## ก้าวที่ 2 เรียนรู้ด้วยการลงมือทำ
- - *Docker #1* **Webserver ด้วย php7, mysql, nginx and phpmyadmin** [วิธีทำ](/docker1/)
+ - **Docker #1: Webserver ด้วย php7, mysql, nginx and phpmyadmin** [วิธีทำ](/docker1/)
+ - **Docker #2 : Docker รวมร่าง Wordpress พร้อมใช้** [วิธีทำ](/docker2/)
 
