@@ -13,6 +13,8 @@ services:
   web.wordpress:
     container_name: web.wordpress
     image: wordpress
+    volumes:
+      - ./www:/var/www/html
     environment:
        - WORDPRESS_DB_HOST=db
        - WORDPRESS_DB_USER=root

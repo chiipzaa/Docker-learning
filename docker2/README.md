@@ -7,6 +7,8 @@
 `````
 Docker2 (root project)
 ├──docker-compose.yml
+├──mysql
+├──www
 ``````
 
 ตั้งค่า docker-compose.yml โดยในไฟล์นี้ก็จะประกอบไปด้วย MySQL และ Wordpress
