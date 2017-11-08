@@ -12,5 +12,9 @@ docker-compose up -d
 ``````
 docker-compose down
 ``````
+หยุดการทำงาน *docker stop <container id หรือ name>* ไม่ต้องครบทุกตัวก็ได้
+``````
+docker stop abc123
+``````
 
 
