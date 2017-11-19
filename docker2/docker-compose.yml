@@ -22,4 +22,4 @@ services:
        - WORDPRESS_DB_NAME=web.wordpress
     ports:
        - 80:80
-    restart: always
+    restart: always  

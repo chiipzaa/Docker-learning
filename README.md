@@ -19,8 +19,10 @@ docker version
 + Containers มันรันอยู่บน Docker Engine ทำให้ไม่ต้องสนใจว่า Infrastructure หรือ Host OS ว่าจะเป็นอะไรยังไง ทำให้หมดปัญหาว่าเครื่อง Dev รันได้ แต่เครื่อง Production มันรันไม่ได้บ้าง หรือเครื่อง Dev แต่ละคนติดตั้งเครื่องมือคนละเวอร์ชันกัน เราก็ build container เป็น image แล้วส่งไปใช้กัน
 
 ### คำสั่งที่ใช้บ่อย [อ่านดู](/CMD.md)
+### [Explore Official Repositories](https://hub.docker.com/explore/) 
 
 ## ก้าวที่ 2 เรียนรู้ด้วยการลงมือทำ
  - **Docker #1: Webserver ด้วย php7, mysql, nginx and phpmyadmin** [วิธีทำ](/docker1/)
  - **Docker #2 : Docker รวมร่าง Wordpress พร้อมใช้** [วิธีทำ](/docker2/)
+  - **Docker #3 : Hadoop with Docker พร้อมใช้** [วิธีทำ](/docker3/)
 
