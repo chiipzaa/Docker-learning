@@ -44,5 +44,10 @@ docker rm ubuntu
 docker ps
 ``````
 
+เวลาเปิดเครื่องขึ้นมาใหม่
+``````
+docker run -d -p 2222:22 -p 50070:50070 -p 8088:8088 -p 9000:9000 --name hadoop chip/hadoop_singlenode
+``````
+
 
 
