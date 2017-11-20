@@ -279,7 +279,9 @@ jps
 ![yarnok](asset/yarn-ok.png)
 
 โอ้วว....เรียบร้อย ! 5 Process (HDFS 3 + YARN 2) ขึ้นแสดงว่าเราสามารถ setup Hadoop แบบ Single-Node Cluster ได้สำเร็จแล้ว
+![hadoopok](asset/hadoop-ok.png)
 
+อย่าลืม Save state ที่ทำเสร็จแล้วไว้ด้วยนะ
 
 > Note
 
