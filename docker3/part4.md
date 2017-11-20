@@ -286,6 +286,10 @@ jps
 > Note
 
 อ้าวววว....... JDK7 run ไม่ได้ เลยต้องเปลี่ยนเป็น JDK8
+ลบและติดตั้งแล้ว ต้องกลับไปแก้ 2 file ได้แก่
+> .bashrc
+>
+> /usr/local/hadoop/etc/hadoop/hadoop-env.sh
 ``````
 # remove
 sudo apt-get purge openjdk*
